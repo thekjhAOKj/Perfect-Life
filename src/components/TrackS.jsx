@@ -21,7 +21,7 @@ const TrackS = () => {
       isClose: false
     },
     {
-      name: 'luanch',
+      name: 'lunch',
       time: '3 PM',
       isClose: false
     },
