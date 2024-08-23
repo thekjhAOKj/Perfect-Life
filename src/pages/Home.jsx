@@ -1,7 +1,7 @@
 import React from 'react'
 import HomeNav from '../components/HomeNav'
 import SideBar from '../components/SideBar'
-import Track from '../components/track'
+import Track from '../components/Track'
 
 const Home = () => {
   return (
