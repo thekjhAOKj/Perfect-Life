@@ -17,7 +17,7 @@ const Team = () => {
         <div className='flex justify-around '>
             <div className='h-[45vh] w-[350px] border-4 border-black rounded-xl flex flex-col items-center justify-between'>
                 <div className='p-10'>
-                    <img src={me} className='w-[150px] h-[150px] rounded-full' alt="" />
+                    <img src={me} className='w-[150px] h-[150px] rounded-full object-cover' alt="" />
                     <h1 className='text-center text-[30px] font-semibold p-3'>SALAH</h1>
                 </div>
                 <div className='w-full flex justify-center gap-5 items-center p-10 bg-[#6482AD] rounded-b-xl'>
